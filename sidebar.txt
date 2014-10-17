@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wuy:home|Door43 (wuy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wuy|d43-wuy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wuy/archive/master.zip|d43-wuy.zip]]
+
+**Recent Changes**
+{{changes>ns = wuy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wuy|Ethnologue data]]
+
